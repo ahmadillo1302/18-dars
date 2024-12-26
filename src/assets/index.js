@@ -1,0 +1,10 @@
+export { default as ProfilePhoto } from "./profile-photo.png";
+export { default as Bgprimary } from "./bg-primary.jpeg";
+export { default as Docer } from "./docker.png";
+export { default as Html } from "./html.png";
+export { default as Nest } from "./nest.svg";
+export { default as Node } from "./node.png";
+export { default as React } from "./react.png";
+export { default as Redux } from "./redux.png";
+export { default as Tailwindcss } from "./tailwind.png";
+export { default as Typescript } from "./Typescript.png";
